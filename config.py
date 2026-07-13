@@ -1,0 +1,15 @@
+# testapp/config.py
+
+DEBUG = True
+HOST = "0.0.0.0"
+PORT = 5000
+USE_RELOADER = True
+
+
+# 既存の設定はそのまま
+YOUTUBE_API_KEY = "AIzaSyCWd5CTbANmc3PJLuiYDArljQC2pzeA6bA"
+YOUTUBE_API_KEY2 = "AIzaSyCIjUAe831rknlVBR-w0wKO0OrBSBZVNdE"
+
+GOOGLE_API_KEY = "AIzaSyAqxHtYis_ny7gwu0cAjOGNELxGlyTVcok"
+GOOGLE_API_KEY2 = "AIzaSyAqxHtYis_ny7gwu0cAjOGNELxGlyTVcok"
+CUSTOM_SEARCH_ENGINE_ID = "334a748beb5364259"
